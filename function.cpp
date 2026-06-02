@@ -18,7 +18,7 @@ void input(int number){
         cout<<"Your mind in the midele of 90 numbers only do rase your number .";
      }
      else if (91<mindnumber<200){
-        cout<<"You are the good "
+        cout<<"You are the good ";
      }
 }
 int main(){
