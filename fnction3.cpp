@@ -19,7 +19,7 @@ int wenner1(int a, int b, int c)
     }
     return matchWener1;
 }
-int wenner2(int a, int b, int c)
+int wenner2(int a, int b, int c)    //❌
 {
     int matchWener2;
     if (a > b && b > c)
