@@ -11,4 +11,5 @@ int main()
         facto *= i;
     }
     cout<<"The factorial of the number "<<number<<" is :"<<facto<<endl;
+    return 0;
 }
