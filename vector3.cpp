@@ -2,12 +2,12 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-int man(){
+int main(){
     int number,size;
-    cout<<"Enter the how many numbers you want to sum";
+    cout<<"Enter the how many numbers you want to sum :";
     cin>>size;
     vector<int>numbList;
-    cout<<"Enter number one by one .";
+    cout<<"Enter number one by one ."<<endl;
     for(int i=0;i<size;i++){
         cout<<"Enter the "<<i+1<<" number :";
         cin>>number;
