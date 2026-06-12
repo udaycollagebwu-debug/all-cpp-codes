@@ -10,7 +10,7 @@ int main(){
     for(int i=0;i<inputstring.length()-1;i++){
         for(int j=0;j<inputstring.length()-1-i;j++){
             if(inputstring[j]>inputstring[j+1]){
-                swap(inputstring[j],inputstring[j+1]);
+                swap(inputstring[j],inputstring[j+1]);//this is a one line swpign function .
             }
         }
     }
