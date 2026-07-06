@@ -13,15 +13,17 @@ int main()
     {
         reversString.push_back(intString[i]);
     }
-    cout<<"The original string is :";
-    cout<<orginalString<<endl;
-    cout<<"The revers string is :";
-    cout<<reversString<<endl;
-    if (orginalString==reversString){
-        cout<<"The string is a palindrome string .";
+    cout << "The original string is :";
+    cout << orginalString << endl;
+    cout << "The revers string is :";
+    cout << reversString << endl;
+    if (orginalString == reversString)
+    {
+        cout << "The string is a palindrome string .";
     }
-    else{
-        cout<<"The string is not a palindrome string .";
+    else
+    {
+        cout << "The string is not a palindrome string .";
     }
     return 0;
 }
