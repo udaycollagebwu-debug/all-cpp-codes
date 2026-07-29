@@ -1,0 +1,23 @@
+What is OPP ?
+ --Object Oriented Programing  is a paradigm that organizes code around classes and objects, making programs 
+   more modular, reusable, and easier to maintain. It is built on four main pillars: Encapsulation, Abstraction,
+   Inheritance, and Polymorphism. 
+OPP is define by two terms :
+    1.Attributes
+    2.Behaviors 
+
+CLASS DECLARACTION:--
+    class Class_name {
+      private: //this is the access specifier (the private specifier is opctional it is default)
+      //data_mamber 
+      //data_mamber 
+      //data_function
+      protected:  //thid is also a access specifier and you have to declear it 
+      //data_mamber 
+      //data_mamber 
+      //data_function
+      public:  //this is a access fpecifier and also you have to wright it down
+      //data_mamber 
+      //data_mamber 
+      //data_function
+    };
