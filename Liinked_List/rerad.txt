@@ -1,0 +1,5 @@
+Linked List is the type of list that stored the data in non-lenesr away.
+
+we needs a node for storing the data .
+
+to declear the linked list we use the structer to creat a node and then we link the nodes and creat a link list.

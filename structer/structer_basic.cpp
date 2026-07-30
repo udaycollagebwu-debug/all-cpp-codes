@@ -8,7 +8,7 @@ struct student
     char name[50];
     float cgpa;
 };
-int mian()
+int main()
 {
     student s1;
     s1.stu_id = 418;
