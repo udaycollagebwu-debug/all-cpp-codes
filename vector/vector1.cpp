@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int num;
-    vector<int> numbers;
+    vector<int> numbers;  // vector is like a array that can epand 
     for (int i = 0; i < 5; i++)
     {
         cout << "Enter a number :";
