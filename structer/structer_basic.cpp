@@ -11,10 +11,10 @@ struct student
 int main()
 {
     student s1;
-    s1.stu_id = 418;
+    cout<<"Enter your id :";
     cin >> s1.stu_id;
     strcpy(s1.name, "uday samkar singha");
-    s1.cgpa = 7.9;
+    cout<<"Enter your cgpa :";
     cin >> s1.cgpa;
     cout << "Name :" << s1.name << endl;
     cout << "Student ID :" << s1.stu_id << endl;
