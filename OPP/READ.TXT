@@ -21,3 +21,11 @@ CLASS DECLARACTION:--
       //data_mamber 
       //data_function
     };
+
+👉 What is the difference between a class and an object in C++ ?
+   class is the user define data type ,, object is the instance of a class .
+   class don't take memory space when it was created ,,object take memory space when it was created .
+
+👉 What is the purpose of the public and private access specifiers in a class ?
+   public - under this we can access Attributes aniwear from the program 
+   private - under this we can access Attributes only from the inside of the class 
