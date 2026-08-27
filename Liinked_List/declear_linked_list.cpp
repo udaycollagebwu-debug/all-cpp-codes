@@ -32,4 +32,5 @@ int main(){
     cout<<n1->next->next->data<<endl;
     cout<<n1->next->next->next->data<<endl;
     // cout<<n1->next->next->next->next->data<<endl;   this will not give any output becaus the node is not exist .
+    return 0;
 }
