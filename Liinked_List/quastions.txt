@@ -1,0 +1,29 @@
+Intermediate Level
+
+1.Write a program to delete a node from a linked list (given a value).
+
+2.How do you count the number of nodes in a linked list?
+
+3.Write a function to search for an element in a linked list.
+
+4.How do you reverse a linked list using iteration?
+
+5.How do you reverse a linked list using recursion?
+
+🔹 Advanced Level
+
+1.Write a program to detect a cycle in a linked list (Floyd’s cycle detection algorithm).
+
+2.How do you merge two sorted linked lists into one sorted list?
+
+3.Write a function to find the middle element of a linked list.
+
+4.How do you remove duplicates from a linked list?
+
+5.Implement a doubly linked list with insert and delete operations.
+
+6.Write a program to implement a circular linked list.
+
+7.How do you delete the nth node from the end of a linked list?
+
+8.Write a function to check if a linked list is a palindrome.
